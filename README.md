@@ -11,4 +11,4 @@ In this project, we analyze travel preferences between mountains and beaches bas
 ## **Project Results:**
 - Developed an initial RandomForest model with variable accuracy for predicting preferences.
 - Improved model interpretability by analyzing the importance of demographic variables like age and income.
-- Achieved a 99% accuracy rate, with the model performing better on certain demographic segments, offering insights for targeted marketing strategies.
+- Achieved a 99% accuracy rate, with the model performing better on certain demographic segments, offering insights, for example, for targeted marketing strategies.
