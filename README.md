@@ -1,5 +1,6 @@
 # **Project Overview**
 In this project, we analyze travel preferences between mountains and beaches based on demographic and lifestyle data, aiming to predict individual preferences.
+![distribution_preferences](distribution_preferences.png)
 
 ## **Project Steps:**
 - Data Preparation: Cleaned and preprocessed the dataset using pandas, handling missing values and preparing it for machine learning.
